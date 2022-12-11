@@ -1,0 +1,9 @@
+{
+    "access": "public",
+    "evaluation": {
+        "handler": "python"
+    },
+    "programming_language": "python",
+    "author": "Wim Devos <wim@obiwan.be>",
+    "contact": "wim@obiwan.be"
+}

@@ -1,0 +1,11 @@
+{
+    "description": {
+        "names": {
+            "en": "Introduction",
+            "nl": "Inleiding"
+        }
+    },
+    "type": "content",
+    "access": "public",
+    "labels": ["intro"]
+}

@@ -1,6 +1,6 @@
 
-Python is met grote voorsprong de belangrijkste programmeertaal geworden.
-Het is vooral populair in scholen, maar ook bij scripting, artificiële intelligentie, big data en veel andere domeinen is het de belangrijkste taal. 
+Python is met grote voorsprong de belangrijkste programmeertaal geworden in scholen en research.
+Maar ook in vele andere domeinen neemt het belang toe. 
 
 Met deze reeks op het Dodona-platform willen we iedereen die wil - jong en oud - op een speelse manier Python leren kennen. 
 
