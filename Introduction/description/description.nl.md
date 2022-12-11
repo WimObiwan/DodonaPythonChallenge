@@ -6,14 +6,6 @@ Maar ook in vele andere domeinen neemt het belang toe.
 
 Met deze reeks op het Dodona-platform willen we iedereen die wil - jong en oud - op een speelse manier Python leren kennen. 
 
-## Dodona
-
-Het Dodona-platform zorgt ervoor dat:
-- alles uitgevoerd wordt via je browser.  Er moet niets geïnstalleerd worden, wat op school-laptops ook dikwijls niet kan of mag.
-- je ziet automatisch of je programma correct werkt, meestal al na enkele seconden.
-- inloggen kan met een bestaande account (Google, Microsoft, SmartSchool, ...) 
-- binnen het platform kan je vragen stellen over jouw code aan de moderatoren van de oefeningenreeks.
-
 ## Voorkennis
 
 Deze oefeningen alleen zijn onvoldoende om je te leren programmeren in Python.  Je zult dikwijls Google of een boek nodig hebben om de oplossing te vinden.
@@ -43,5 +35,9 @@ Uitleg over hoe je op Dodona oefeningen kunt indienen, en vragen kunt stellen vi
 [Dodona Oefeningen Oplossen](https://docs.dodona.be/nl/guides/students/exercises/)  
 Het stellen van een vraag is enkel mogelijk nadat je een oefening hebt ingediend op de tab "Code" onder de tab "Feedback".  
 [Vragen stellen](https://docs.dodona.be/nl/guides/students/exercises/#vragen-stellen)
+
+## Above all, be cool!
+
+Wie gaat de challenge mee aan?  Inloggen kan met je bestaande Google, Microsoft of SmartSchool account.  En we zullen extra reeksen toevoegen wanneer we zien dat er interesse is.
 
 Veel plezier!  En "Above all, be cool!"
