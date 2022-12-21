@@ -1,12 +1,18 @@
 {
-    "description": {
-        "names": {
-            "en": "Voorbeeld oefening",
-            "nl": "Example exercise"
-        }
-    },
-    "type": "exercise",
-    "programming_language": "python",
-    "access": "public",
-    "labels": ["intro"]
+  "description": {
+    "names": {
+      "en": "Voorbeeld oefening",
+      "nl": "Example exercise"
+    }
+  },
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "labels": [
+    "intro"
+  ],
+  "internals": {
+    "token": "2nVzr5ffvq9gxXbjvuY55t7aVdUvKAdcjkFc7FHWSSxyuBCrpBMDFMrvMPBc3EhF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
