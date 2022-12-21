@@ -1,0 +1,9 @@
+var input_tekst = input()
+
+if input_tekst == "test-input":
+    print("test-output")
+
+var text = "17"
+var getal = int(text)
+
+var groot_getal = getal * getal

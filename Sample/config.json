@@ -1,0 +1,12 @@
+{
+    "description": {
+        "names": {
+            "en": "Voorbeeld oefening",
+            "nl": "Example exercise"
+        }
+    },
+    "type": "exercise",
+    "programming_language": "python",
+    "access": "public",
+    "labels": ["intro"]
+}
