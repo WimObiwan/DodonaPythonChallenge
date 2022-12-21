@@ -8,6 +8,9 @@
   "type": "exercise",
   "programming_language": "python",
   "access": "public",
+  "evaluation": {
+    "pythia_judge": "output"
+  },
   "labels": [
     "intro"
   ],
