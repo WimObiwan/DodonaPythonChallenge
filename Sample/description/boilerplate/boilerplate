@@ -1,9 +1,13 @@
-var input_tekst = input()
+input_tekst = input()
 
-if input_tekst == "test-input":
-    print("test-output")
+if input_tekst == "test":
+    print("de input was 'test'")
+elif input_tekst == "nog een test":
+    print("de input was 'nog een test'")
+else:
+    print("de input was niet 'test', en niet 'nog een test'")
+    
+text = "17"
+getal = int(text)
 
-var text = "17"
-var getal = int(text)
-
-var groot_getal = getal * getal
+groot_getal = getal * getal
