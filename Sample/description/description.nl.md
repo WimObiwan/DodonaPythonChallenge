@@ -7,7 +7,7 @@ Dit is je eerste oefening in de reeks, en voor deze eerste keer hoef je helemaal
 
 Hieronder, onder de tab "Indienen" vind je een klein kant-en-klaar Python programma.
 Meestal zal dit leeg zijn en is de oefening voor jou, om dit zelf te schrijven.
-Maar voor deze eerste keer hebben we je geholpen om het systeem te leren kennen.
+Maar voor deze eerste keer hebben we je geholpen, om zo het systeem te leren kennen.
 
 In het programma wordt er tekst ingelezen (met de functie `input()`), en wordt er tekst teruggegeven (`print()`).
 
@@ -23,13 +23,14 @@ Je kan je programma steeds aanpassen en opnieuw indienen, wat je zo veel mag doe
 ## Oplossingen & Feedback
 
 Al je ingediende pogingen komen onder de tab "Oplossingen".
-En onder de tab "Feedback" vind je uitleg over je ingediende poging.
+Daar kun je de bijvoorbeeld de bovenste (=laatst ingediende) ingediende poging kiezen.
+Onder de tab "Feedback" vind je dan de uitleg over de gekozen poging.
 Bij "Correctheid" vind je waarom je programma goed of slecht wordt beöordeeld.
 Onder "Code" zie je jouw ingediende programma.
 Je mag altijd naar de volgende oefening gaan (zelfs als de laatste oefening nog niet gelukt is).
 
 ## Vragen stellen
 
-Vragen stellen kun je doen door je programma een keer in te dienen, en naar "Code" te gaan onder "Feedback".
+Om een vraag te stellen over je programma, kun je na het indienen naar "Code" gaan onder "Feedback".
 - Boven je programma vind je een link **Globale opmerking toevoegen**: daar kun je een algemene vraag stellen.
 - Je kunt ook met de muis over je programma bewegen, en links van het lijnnummer op de opmerking knop drukken.
