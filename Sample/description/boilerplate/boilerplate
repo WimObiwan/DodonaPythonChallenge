@@ -9,7 +9,9 @@ elif input_tekst == "nog een test":
 else:
     print("de input was niet 'test', en ook niet 'nog een test'")
 
-# nog wat 
+
+
+# nog wat voorbeeldcode om enkele basis-dingen in Python te tonen
 text = "17"
 # text = input()
 klein_getal = int(text)
